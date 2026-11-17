@@ -40,6 +40,11 @@ You do not need to have a fully defined analytics brief to start a conversation.
 
 Explore the pinned repositories below for examples covering credit risk, banking analytics, programme performance, customer churn, sales intelligence and applied machine learning.
 
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/belyne-bochere](https://www.linkedin.com/in/belyne-bochere)
+- **Email:** [kt212belynelissa@gmail.com](mailto:kt212belynelissa@gmail.com)
+
 ---
 
 **My approach:** Understand the business. Find what the data is saying. Make the insight useful.
